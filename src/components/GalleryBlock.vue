@@ -68,8 +68,6 @@ export default {
   }
 
   .image {
-    height: 200px;
-    min-height: 300px;
     cursor: pointer;
   }
 

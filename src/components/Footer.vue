@@ -1,7 +1,7 @@
 <!-- WebXP: Resume: SuperGeek: Container -->
 <template>
   <div class="footer">
-    <div class="footer-copyright">Â© 2019 {{content.name}}. All Rights Reserved.</div>
+    <div class="footer-copyright">© 2019 {{content.name}}. All Rights Reserved.</div>
   </div>
 </template>
 

@@ -81,6 +81,7 @@ export default {
   width: 100%;
   .img-fluid {
     min-height: 240px;
+    width: 100%;
   }
 }
 
