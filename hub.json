@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "name": "Resto",
+  "routeType": "hash",
+  "contentSource": "content.json",
+  "preview": false,
+  "routes": [
+    { "name": "Home", "path": "/" },
+    { "name": "Menu", "path": "/menu?item=All" },
+    { "name": "Gallery", "path": "/gallery" },
+    { "name": "Review", "path": "/review" },
+    { "name": "Contact Us", "path": "/contact-us" }
+  ],
+  "theme": [
+    {
+      "name": "Primary Background",
+      "value": "#000000",
+      "key": "--primary-bg-color"
+    },
+    {
+      "name": "Primary Foreground",
+      "value": "#ffffff",
+      "key": "--primary-fg-color"
+    },
+    {
+      "name": "Secondary Background",
+      "value": "#000000",
+      "key": "--secondary-bg-color"
+    },
+    {
+      "name": "Secondary Foreground",
+      "value": "#ffffff",
+      "key": "--secondary-fg-color"
+    }
+  ]
+}
